@@ -2,14 +2,14 @@
 A small shell script to remove Samsung bloatware from a Samsung device. You control what to uninstall.
 
 ### The what
-This script allows you to remove Samsung bloatware from your Samdung android phone.
+This script allows you to remove Samsung bloatware from your Samdung android device.
 
 It lists all installed Samsung apps and lets you choose which to remove. Even those that Samsung would not allow you to uninstall via the  device itself.
 
 ### The how
 * Install ADB on your computer and connect your Samdung device to it using one of the 100s of tutorials available on the web.
 * Then either:
-    * Run `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/vaiden/UnSamsung/main/unsamsung.sh)"`
+    * Run<BR/>`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/vaiden/UnSamsung/main/unsamsung.sh)"`
     * Download the script, inspect it thoroughly and then execute it locally.
 
 #### Parameters
