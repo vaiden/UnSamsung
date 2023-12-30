@@ -7,7 +7,7 @@ This script allows you to remove Samsung bloatware from your Samdung android dev
 It lists all installed Samsung apps and lets you choose which to remove. Even those that Samsung would not allow you to uninstall via the  device itself.
 
 ## The how
-* Install ADB on your computer and connect your Samdung device to it using one of the 100s of tutorials available on the web.
+* Install ADB on your computer and connect your Samsung device to it using one of the [100s](https://www.xda-developers.com/install-adb-windows-macos-linux/) [of](https://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/) [tutorials](https://www.androidpolice.com/install-adb-windows-mac-linux-guide/) [available](https://www.youtube.com/watch?v=GERlhgCcoBc) [on](https://help.esper.io/hc/en-us/articles/12657625935761-Installing-the-Android-Debug-Bridge-ADB-Tool) [the](https://r2.community.samsung.com/t5/Others/How-to-set-up-ADB/td-p/10461546) [web](https://www.androidpolice.com/use-wireless-adb-android-phone/).
 * Then either:
     * Run<BR/>`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/vaiden/UnSamsung/main/unsamsung.sh)"`
     * Download the script, inspect it thoroughly and then execute it locally.
