@@ -43,7 +43,7 @@ ARZone v1.9.00.10 com.samsung.android.arzone (/data/app/~~AaQ7MZecrygrSLfKowI0oA
 Do you wanna remove this package? [Y/N]
 ```
 
-## Come say HI
+## Come say Hi
 https://www.devsbedevin.net/unsamsung-released/
 
 ## License
