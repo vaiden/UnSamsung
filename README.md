@@ -27,6 +27,22 @@ More info here:<BR/>
 https://gokulnc.github.io/blog/find-app-name-adb/ <BR/>
 https://github.com/JonForShort/android-tools/tree/master/build
 
+## Example
+```shell
+➜ ./unsamsung.sh
+Add the -s flag if you want to also handle system packages. You will need root access to succeed.
+AAPT found on the device.
+
+----------------------------------------------
+PrivateShare v1.2.01.15 com.samsung.android.privateshare (/data/app/~~J4ciJxUic282FYALynksAw==/com.samsung.android.privateshare-bO9FV9P5vDCcFAV0hOKicQ==/base.apk)
+Do you wanna remove this package? [Y/N]
+n
+
+----------------------------------------------
+ARZone v1.9.00.10 com.samsung.android.arzone (/data/app/~~AaQ7MZecrygrSLfKowI0oA==/com.samsung.android.arzone-aPSaquptiRpxHCpl-xh-zg==/base.apk)
+Do you wanna remove this package? [Y/N]
+```
+
 ## Come say HI
 https://www.devsbedevin.net/unsamsung-released/
 
