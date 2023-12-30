@@ -27,5 +27,8 @@ More info here:<BR/>
 https://gokulnc.github.io/blog/find-app-name-adb/ <BR/>
 https://github.com/JonForShort/android-tools/tree/master/build
 
+## Come say HI
+https://www.devsbedevin.net/unsamsung-released/
+
 ## License
 This script is published under the [Unlicense license](https://www.tldrlegal.com/license/unlicense). You may do whatever you want with it. Knock yourself out as long as you don't come crying back to me.
