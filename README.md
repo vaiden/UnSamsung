@@ -28,4 +28,4 @@ https://gokulnc.github.io/blog/find-app-name-adb/
 https://github.com/JonForShort/android-tools/tree/master/build
 
 ## License
-This script is published under the unlicensed license. You may do whatever you want with it. Knock yourself out as long as you don't come crying back to me.
+This script is published under the [Unlicense license](https://www.tldrlegal.com/license/unlicense). You may do whatever you want with it. Knock yourself out as long as you don't come crying back to me.
