@@ -24,7 +24,7 @@ By deafult the script would only display package names. <BR/>In order to transla
 **Regardless, the script works fine without AAPT.**
 
 More info here:<BR/>
-https://gokulnc.github.io/blog/find-app-name-adb/
+https://gokulnc.github.io/blog/find-app-name-adb/ <BR/>
 https://github.com/JonForShort/android-tools/tree/master/build
 
 ## License
