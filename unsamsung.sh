@@ -84,8 +84,7 @@ for pkg in $(adb shell cmd package list packages -e $extra_args | grep samsung |
         then
            removed_packages=$((removed_packages+1))
         fi
-    fi
-    
+    fi 
 done
 
 echo $removed_packages packages removed succeesfuly.
